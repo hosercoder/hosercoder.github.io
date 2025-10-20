@@ -1,0 +1,15 @@
+{
+  "name": "hosercoder-portfolio",
+  "version": "1.0.0",
+  "description": "Hosercoder's Algorithmic Trading System Portfolio",
+  "scripts": {
+    "build": "echo 'No build required - static HTML site'",
+    "start": "echo 'Static site - open hosercoder.html directly'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hosercoder/hosercoder.github.io"
+  },
+  "author": "Hosercoder",
+  "license": "MIT"
+}
