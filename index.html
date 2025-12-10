@@ -88,7 +88,6 @@
           </p>
         <div class="actions">
           <a class="btn primary" href="https://github.com/hosercoder" target="_blank" rel="noopener">View GitHub Profile</a>
-          <a class="btn primary" href="https://www.linkedin.com/in/mathewromstadt/" target="_blank" rel="noopener">LinkedIn Profile</a>
           <a class="btn" href="#modules">System Modules</a>
           <a class="btn" href="#goals">Design Goals</a>
           <a class="btn" href="#resume">Resume Highlights</a>
